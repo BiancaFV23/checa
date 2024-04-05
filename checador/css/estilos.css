@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans';
+}
+body{
+	background-image: url(img/coppel.png);
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	padding: 20px;
+	font-size: 40px;
+	color:black;
+}
+#fecha{
+	text-align: center;
+	color: gray;
+	font-weight: normal;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
